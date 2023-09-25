@@ -1,2 +1,2 @@
 # rational-numbers
-CSC 315 Project - Rational Numbers Calculator
+Rational Numbers Calculator (add, subtract, multiply, divide, squareroot)
