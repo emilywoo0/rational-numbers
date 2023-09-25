@@ -1,2 +1,2 @@
 # rational-numbers
-Rational Numbers Calculator (add, subtract, multiply, divide, squareroot)
+Add, subtract, multiply, divide, and squareroot of rational numbers
